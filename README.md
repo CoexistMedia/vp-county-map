@@ -216,6 +216,17 @@ script does the fetching.
 5. **Candidate effects in the forecast map.** For example, a home-county bonus, tested the way the
    site tests everything else, before any of it reaches the map.
 
+## Deploying
+
+The live demo is a Cloudflare Pages project. To publish your own copy, log in with
+`npx wrangler login`, create a Pages project once, then run:
+
+```
+scripts/deploy-pages.sh <project-name>
+```
+
+It uploads only `index.html`, `css/`, `js/` and `data/`. Any static host works the same way.
+
 ## Files
 
 ```
