@@ -1,0 +1,1205 @@
+{
+ "races": [
+  {
+   "race_id": "2026_GOV_AK",
+   "office": "GOV",
+   "state": "AK",
+   "state_name": "Alaska",
+   "as_of": "2026-10-29",
+   "pred_margin": 7.457082517,
+   "p_dem_win": 0.9676291016,
+   "rating": "Safe D",
+   "source": "polls",
+   "no_forecast_reason": null,
+   "candidates": {
+    "democrat": "Jonathan Kreiss-Tomkins",
+    "republican": "Bernadette Wilson"
+   },
+   "url": "https://votepredictor.com/governor/ak"
+  },
+  {
+   "race_id": "2026_GOV_AL",
+   "office": "GOV",
+   "state": "AL",
+   "state_name": "Alabama",
+   "as_of": "2026-10-29",
+   "pred_margin": -14.2296109552,
+   "p_dem_win": 0.01,
+   "rating": "Safe R",
+   "source": "polls",
+   "no_forecast_reason": null,
+   "candidates": {
+    "democrat": "Doug Jones",
+    "republican": "Tommy Tuberville"
+   },
+   "url": "https://votepredictor.com/governor/al"
+  },
+  {
+   "race_id": "2026_GOV_AR",
+   "office": "GOV",
+   "state": "AR",
+   "state_name": "Arkansas",
+   "as_of": "2026-10-29",
+   "pred_margin": -24.0516248175,
+   "p_dem_win": 0.01,
+   "rating": "Safe R",
+   "source": "polls",
+   "no_forecast_reason": null,
+   "candidates": {
+    "democrat": "Fredrick Love",
+    "republican": "Sarah Huckabee Sanders"
+   },
+   "url": "https://votepredictor.com/governor/ar"
+  },
+  {
+   "race_id": "2026_GOV_AZ",
+   "office": "GOV",
+   "state": "AZ",
+   "state_name": "Arizona",
+   "as_of": "2026-10-29",
+   "pred_margin": 6.064067611,
+   "p_dem_win": 0.9259088608,
+   "rating": "Likely D",
+   "source": "polls",
+   "no_forecast_reason": null,
+   "candidates": {
+    "democrat": "Katie Hobbs",
+    "republican": "Andy Biggs"
+   },
+   "url": "https://votepredictor.com/governor/az"
+  },
+  {
+   "race_id": "2026_GOV_CA",
+   "office": "GOV",
+   "state": "CA",
+   "state_name": "California",
+   "as_of": "2026-10-29",
+   "pred_margin": 22.9181115376,
+   "p_dem_win": 0.99,
+   "rating": "Safe D",
+   "source": "polls",
+   "no_forecast_reason": null,
+   "candidates": {
+    "democrat": "Xavier Becerra",
+    "republican": "Steve Hilton"
+   },
+   "url": "https://votepredictor.com/governor/ca"
+  },
+  {
+   "race_id": "2026_GOV_CO",
+   "office": "GOV",
+   "state": "CO",
+   "state_name": "Colorado",
+   "as_of": "2026-10-24",
+   "pred_margin": 10.65,
+   "p_dem_win": 0.7811,
+   "rating": "Lean D",
+   "source": "fundamentals",
+   "no_forecast_reason": null,
+   "candidates": {
+    "democrat": null,
+    "republican": null
+   },
+   "url": "https://votepredictor.com/governor/co"
+  },
+  {
+   "race_id": "2026_GOV_CT",
+   "office": "GOV",
+   "state": "CT",
+   "state_name": "Connecticut",
+   "as_of": "2026-10-29",
+   "pred_margin": 20.0393171866,
+   "p_dem_win": 0.99,
+   "rating": "Safe D",
+   "source": "polls",
+   "no_forecast_reason": null,
+   "candidates": {
+    "democrat": "Ned Lamont",
+    "republican": "Ryan Fazio"
+   },
+   "url": "https://votepredictor.com/governor/ct"
+  },
+  {
+   "race_id": "2026_GOV_FL",
+   "office": "GOV",
+   "state": "FL",
+   "state_name": "Florida",
+   "as_of": "2026-10-29",
+   "pred_margin": -7.3275635634,
+   "p_dem_win": 0.0391567376,
+   "rating": "Safe R",
+   "source": "polls",
+   "no_forecast_reason": null,
+   "candidates": {
+    "democrat": "David Jolly",
+    "republican": "Byron Donalds"
+   },
+   "url": "https://votepredictor.com/governor/fl"
+  },
+  {
+   "race_id": "2026_GOV_GA",
+   "office": "GOV",
+   "state": "GA",
+   "state_name": "Georgia",
+   "as_of": "2026-10-29",
+   "pred_margin": -2.2222114578,
+   "p_dem_win": 0.286652879,
+   "rating": "Lean R",
+   "source": "polls",
+   "no_forecast_reason": null,
+   "candidates": {
+    "democrat": "Keisha Lance Bottoms",
+    "republican": "Rick Jackson"
+   },
+   "url": "https://votepredictor.com/governor/ga"
+  },
+  {
+   "race_id": "2026_GOV_HI",
+   "office": "GOV",
+   "state": "HI",
+   "state_name": "Hawaii",
+   "as_of": "2026-10-24",
+   "pred_margin": 28.83,
+   "p_dem_win": 0.9821,
+   "rating": "Safe D",
+   "source": "fundamentals",
+   "no_forecast_reason": null,
+   "candidates": {
+    "democrat": null,
+    "republican": null
+   },
+   "url": "https://votepredictor.com/governor/hi"
+  },
+  {
+   "race_id": "2026_GOV_IA",
+   "office": "GOV",
+   "state": "IA",
+   "state_name": "Iowa",
+   "as_of": "2026-10-29",
+   "pred_margin": 4.4826283755,
+   "p_dem_win": 0.8592639866,
+   "rating": "Likely D",
+   "source": "polls",
+   "no_forecast_reason": null,
+   "candidates": {
+    "democrat": "Rob Sand",
+    "republican": "Zach Lahn"
+   },
+   "url": "https://votepredictor.com/governor/ia"
+  },
+  {
+   "race_id": "2026_GOV_ID",
+   "office": "GOV",
+   "state": "ID",
+   "state_name": "Idaho",
+   "as_of": "2026-10-29",
+   "pred_margin": -23.517418037,
+   "p_dem_win": 0.01,
+   "rating": "Safe R",
+   "source": "polls",
+   "no_forecast_reason": null,
+   "candidates": {
+    "democrat": "Terri Pickens",
+    "republican": "Brad Little"
+   },
+   "url": "https://votepredictor.com/governor/id"
+  },
+  {
+   "race_id": "2026_GOV_IL",
+   "office": "GOV",
+   "state": "IL",
+   "state_name": "Illinois",
+   "as_of": "2026-10-29",
+   "pred_margin": 19.295088803,
+   "p_dem_win": 0.99,
+   "rating": "Safe D",
+   "source": "polls",
+   "no_forecast_reason": null,
+   "candidates": {
+    "democrat": "JB Pritzker",
+    "republican": "Darren Bailey"
+   },
+   "url": "https://votepredictor.com/governor/il"
+  },
+  {
+   "race_id": "2026_GOV_KS",
+   "office": "GOV",
+   "state": "KS",
+   "state_name": "Kansas",
+   "as_of": "2026-10-29",
+   "pred_margin": -3.7403360068,
+   "p_dem_win": 0.1825951979,
+   "rating": "Lean R",
+   "source": "polls",
+   "no_forecast_reason": null,
+   "candidates": {
+    "democrat": "Cindy Holscher",
+    "republican": "Ty Masterson"
+   },
+   "url": "https://votepredictor.com/governor/ks"
+  },
+  {
+   "race_id": "2026_GOV_MA",
+   "office": "GOV",
+   "state": "MA",
+   "state_name": "Massachusetts",
+   "as_of": "2026-10-29",
+   "pred_margin": 23.7969748165,
+   "p_dem_win": 0.99,
+   "rating": "Safe D",
+   "source": "polls",
+   "no_forecast_reason": null,
+   "candidates": {
+    "democrat": "Maura Healey",
+    "republican": "Mike Minogue"
+   },
+   "url": "https://votepredictor.com/governor/ma"
+  },
+  {
+   "race_id": "2026_GOV_MD",
+   "office": "GOV",
+   "state": "MD",
+   "state_name": "Maryland",
+   "as_of": "2026-10-29",
+   "pred_margin": 28.6306015088,
+   "p_dem_win": 0.99,
+   "rating": "Safe D",
+   "source": "polls",
+   "no_forecast_reason": null,
+   "candidates": {
+    "democrat": "Wes Moore",
+    "republican": "Dan Cox"
+   },
+   "url": "https://votepredictor.com/governor/md"
+  },
+  {
+   "race_id": "2026_GOV_ME",
+   "office": "GOV",
+   "state": "ME",
+   "state_name": "Maine",
+   "as_of": "2026-10-29",
+   "pred_margin": 9.3586315209,
+   "p_dem_win": 0.9897761419,
+   "rating": "Safe D",
+   "source": "polls",
+   "no_forecast_reason": null,
+   "candidates": {
+    "democrat": "Hannah Pingree",
+    "republican": "Bobby Charles"
+   },
+   "url": "https://votepredictor.com/governor/me"
+  },
+  {
+   "race_id": "2026_GOV_MI",
+   "office": "GOV",
+   "state": "MI",
+   "state_name": "Michigan",
+   "as_of": "2026-10-29",
+   "pred_margin": 8.7278928024,
+   "p_dem_win": 0.9826989808,
+   "rating": "Safe D",
+   "source": "polls",
+   "no_forecast_reason": null,
+   "candidates": {
+    "democrat": "Jocelyn Benson",
+    "republican": "John James"
+   },
+   "url": "https://votepredictor.com/governor/mi"
+  },
+  {
+   "race_id": "2026_GOV_MN",
+   "office": "GOV",
+   "state": "MN",
+   "state_name": "Minnesota",
+   "as_of": "2026-10-29",
+   "pred_margin": 8.3010212021,
+   "p_dem_win": 0.9678351205,
+   "rating": "Safe D",
+   "source": "polls",
+   "no_forecast_reason": null,
+   "candidates": {
+    "democrat": "Amy Klobuchar",
+    "republican": "Lisa Demuth"
+   },
+   "url": "https://votepredictor.com/governor/mn"
+  },
+  {
+   "race_id": "2026_GOV_NE",
+   "office": "GOV",
+   "state": "NE",
+   "state_name": "Nebraska",
+   "as_of": "2026-10-29",
+   "pred_margin": -7.8621875927,
+   "p_dem_win": 0.0294453758,
+   "rating": "Safe R",
+   "source": "polls",
+   "no_forecast_reason": null,
+   "candidates": {
+    "democrat": "Lynne Walz",
+    "republican": "Jim Pillen"
+   },
+   "url": "https://votepredictor.com/governor/ne"
+  },
+  {
+   "race_id": "2026_GOV_NH",
+   "office": "GOV",
+   "state": "NH",
+   "state_name": "New Hampshire",
+   "as_of": "2026-10-29",
+   "pred_margin": -13.9288799032,
+   "p_dem_win": 0.01,
+   "rating": "Safe R",
+   "source": "polls",
+   "no_forecast_reason": null,
+   "candidates": {
+    "democrat": "Cinde Warmington",
+    "republican": "Kelly Ayotte"
+   },
+   "url": "https://votepredictor.com/governor/nh"
+  },
+  {
+   "race_id": "2026_GOV_NM",
+   "office": "GOV",
+   "state": "NM",
+   "state_name": "New Mexico",
+   "as_of": "2026-10-29",
+   "pred_margin": 6.4554789437,
+   "p_dem_win": 0.9233431774,
+   "rating": "Likely D",
+   "source": "polls",
+   "no_forecast_reason": null,
+   "candidates": {
+    "democrat": "Deb Haaland",
+    "republican": "Gregg Hull"
+   },
+   "url": "https://votepredictor.com/governor/nm"
+  },
+  {
+   "race_id": "2026_GOV_NV",
+   "office": "GOV",
+   "state": "NV",
+   "state_name": "Nevada",
+   "as_of": "2026-10-29",
+   "pred_margin": -0.6195646693,
+   "p_dem_win": 0.4394776576,
+   "rating": "Toss-up",
+   "source": "polls",
+   "no_forecast_reason": null,
+   "candidates": {
+    "democrat": "Aaron Ford",
+    "republican": "Joe Lombardo"
+   },
+   "url": "https://votepredictor.com/governor/nv"
+  },
+  {
+   "race_id": "2026_GOV_NY",
+   "office": "GOV",
+   "state": "NY",
+   "state_name": "New York",
+   "as_of": "2026-10-29",
+   "pred_margin": 12.6188164277,
+   "p_dem_win": 0.99,
+   "rating": "Safe D",
+   "source": "polls",
+   "no_forecast_reason": null,
+   "candidates": {
+    "democrat": "Kathy Hochul",
+    "republican": "Bruce Blakeman"
+   },
+   "url": "https://votepredictor.com/governor/ny"
+  },
+  {
+   "race_id": "2026_GOV_OH",
+   "office": "GOV",
+   "state": "OH",
+   "state_name": "Ohio",
+   "as_of": "2026-10-29",
+   "pred_margin": 0.7960459358,
+   "p_dem_win": 0.579341119,
+   "rating": "Toss-up",
+   "source": "polls",
+   "no_forecast_reason": null,
+   "candidates": {
+    "democrat": "Amy Acton",
+    "republican": "Vivek Ramaswamy"
+   },
+   "url": "https://votepredictor.com/governor/oh"
+  },
+  {
+   "race_id": "2026_GOV_OK",
+   "office": "GOV",
+   "state": "OK",
+   "state_name": "Oklahoma",
+   "as_of": "2026-10-29",
+   "pred_margin": -7.9625167718,
+   "p_dem_win": 0.0347834147,
+   "rating": "Safe R",
+   "source": "polls",
+   "no_forecast_reason": null,
+   "candidates": {
+    "democrat": "Cyndi Munson",
+    "republican": "Mike Mazzei"
+   },
+   "url": "https://votepredictor.com/governor/ok"
+  },
+  {
+   "race_id": "2026_GOV_OR",
+   "office": "GOV",
+   "state": "OR",
+   "state_name": "Oregon",
+   "as_of": "2026-10-29",
+   "pred_margin": 1.4418142696,
+   "p_dem_win": 0.6156558728,
+   "rating": "Toss-up",
+   "source": "polls",
+   "no_forecast_reason": null,
+   "candidates": {
+    "democrat": "Tina Kotek",
+    "republican": "Christine Drazan"
+   },
+   "url": "https://votepredictor.com/governor/or"
+  },
+  {
+   "race_id": "2026_GOV_PA",
+   "office": "GOV",
+   "state": "PA",
+   "state_name": "Pennsylvania",
+   "as_of": "2026-10-29",
+   "pred_margin": 23.1609578059,
+   "p_dem_win": 0.99,
+   "rating": "Safe D",
+   "source": "polls",
+   "no_forecast_reason": null,
+   "candidates": {
+    "democrat": "Josh Shapiro",
+    "republican": "Stacy Garrity"
+   },
+   "url": "https://votepredictor.com/governor/pa"
+  },
+  {
+   "race_id": "2026_GOV_RI",
+   "office": "GOV",
+   "state": "RI",
+   "state_name": "Rhode Island",
+   "as_of": "2026-10-29",
+   "pred_margin": 21.7323843905,
+   "p_dem_win": 0.99,
+   "rating": "Safe D",
+   "source": "polls",
+   "no_forecast_reason": null,
+   "candidates": {
+    "democrat": "Helena Foulkes",
+    "republican": "Aaron Guckian"
+   },
+   "url": "https://votepredictor.com/governor/ri"
+  },
+  {
+   "race_id": "2026_GOV_SC",
+   "office": "GOV",
+   "state": "SC",
+   "state_name": "South Carolina",
+   "as_of": "2026-10-29",
+   "pred_margin": -12.994296595,
+   "p_dem_win": 0.01,
+   "rating": "Safe R",
+   "source": "polls",
+   "no_forecast_reason": null,
+   "candidates": {
+    "democrat": "Jermaine Johnson",
+    "republican": "Alan Wilson"
+   },
+   "url": "https://votepredictor.com/governor/sc"
+  },
+  {
+   "race_id": "2026_GOV_SD",
+   "office": "GOV",
+   "state": "SD",
+   "state_name": "South Dakota",
+   "as_of": "2026-10-29",
+   "pred_margin": -20.928698686,
+   "p_dem_win": 0.01,
+   "rating": "Safe R",
+   "source": "polls",
+   "no_forecast_reason": null,
+   "candidates": {
+    "democrat": "Dan Ahlers",
+    "republican": "Larry Rhoden"
+   },
+   "url": "https://votepredictor.com/governor/sd"
+  },
+  {
+   "race_id": "2026_GOV_TN",
+   "office": "GOV",
+   "state": "TN",
+   "state_name": "Tennessee",
+   "as_of": "2026-10-29",
+   "pred_margin": -13.7041724277,
+   "p_dem_win": 0.01,
+   "rating": "Safe R",
+   "source": "polls",
+   "no_forecast_reason": null,
+   "candidates": {
+    "democrat": "Jerri Green",
+    "republican": "Marsha Blackburn"
+   },
+   "url": "https://votepredictor.com/governor/tn"
+  },
+  {
+   "race_id": "2026_GOV_TX",
+   "office": "GOV",
+   "state": "TX",
+   "state_name": "Texas",
+   "as_of": "2026-10-29",
+   "pred_margin": -4.7686690422,
+   "p_dem_win": 0.1134169075,
+   "rating": "Likely R",
+   "source": "polls",
+   "no_forecast_reason": null,
+   "candidates": {
+    "democrat": "Gina Hinojosa",
+    "republican": "Greg Abbott"
+   },
+   "url": "https://votepredictor.com/governor/tx"
+  },
+  {
+   "race_id": "2026_GOV_VT",
+   "office": "GOV",
+   "state": "VT",
+   "state_name": "Vermont",
+   "as_of": "2026-10-29",
+   "pred_margin": -10.4106934307,
+   "p_dem_win": 0.01,
+   "rating": "Safe R",
+   "source": "polls",
+   "no_forecast_reason": null,
+   "candidates": {
+    "democrat": "Amanda Janoo",
+    "republican": "Phil Scott"
+   },
+   "url": "https://votepredictor.com/governor/vt"
+  },
+  {
+   "race_id": "2026_GOV_WI",
+   "office": "GOV",
+   "state": "WI",
+   "state_name": "Wisconsin",
+   "as_of": "2026-10-29",
+   "pred_margin": 2.719529817,
+   "p_dem_win": 0.7480866836,
+   "rating": "Lean D",
+   "source": "polls",
+   "no_forecast_reason": null,
+   "candidates": {
+    "democrat": "David Crowley",
+    "republican": "Tom Tiffany"
+   },
+   "url": "https://votepredictor.com/governor/wi"
+  },
+  {
+   "race_id": "2026_GOV_WY",
+   "office": "GOV",
+   "state": "WY",
+   "state_name": "Wyoming",
+   "as_of": "2026-10-24",
+   "pred_margin": -22.41,
+   "p_dem_win": 0.0513,
+   "rating": "Likely R",
+   "source": "fundamentals",
+   "no_forecast_reason": null,
+   "candidates": {
+    "democrat": null,
+    "republican": null
+   },
+   "url": "https://votepredictor.com/governor/wy"
+  },
+  {
+   "race_id": "2026_SEN_AK",
+   "office": "SEN",
+   "state": "AK",
+   "state_name": "Alaska",
+   "as_of": "2026-10-29",
+   "pred_margin": -0.9714266317,
+   "p_dem_win": 0.386962656,
+   "rating": "Toss-up",
+   "source": "polls",
+   "no_forecast_reason": null,
+   "candidates": {
+    "democrat": "Mary Peltola",
+    "republican": "Dan Sullivan"
+   },
+   "url": "https://votepredictor.com/senate/ak"
+  },
+  {
+   "race_id": "2026_SEN_AL",
+   "office": "SEN",
+   "state": "AL",
+   "state_name": "Alabama",
+   "as_of": "2026-10-29",
+   "pred_margin": -20.3145120072,
+   "p_dem_win": 0.01,
+   "rating": "Safe R",
+   "source": "polls",
+   "no_forecast_reason": null,
+   "candidates": {
+    "democrat": "Everett Wess",
+    "republican": "Barry Moore"
+   },
+   "url": "https://votepredictor.com/senate/al"
+  },
+  {
+   "race_id": "2026_SEN_AR",
+   "office": "SEN",
+   "state": "AR",
+   "state_name": "Arkansas",
+   "as_of": "2026-10-29",
+   "pred_margin": -18.8208396657,
+   "p_dem_win": 0.01,
+   "rating": "Safe R",
+   "source": "polls",
+   "no_forecast_reason": null,
+   "candidates": {
+    "democrat": "Hallie Shoffner",
+    "republican": "Tom Cotton"
+   },
+   "url": "https://votepredictor.com/senate/ar"
+  },
+  {
+   "race_id": "2026_SEN_CO",
+   "office": "SEN",
+   "state": "CO",
+   "state_name": "Colorado",
+   "as_of": "2026-10-29",
+   "pred_margin": 23.71,
+   "p_dem_win": 0.9888,
+   "rating": "Safe D",
+   "source": "fundamentals",
+   "no_forecast_reason": null,
+   "candidates": {
+    "democrat": null,
+    "republican": null
+   },
+   "url": "https://votepredictor.com/senate/co"
+  },
+  {
+   "race_id": "2026_SEN_DE",
+   "office": "SEN",
+   "state": "DE",
+   "state_name": "Delaware",
+   "as_of": "2026-10-29",
+   "pred_margin": 29.27,
+   "p_dem_win": 0.99,
+   "rating": "Safe D",
+   "source": "fundamentals",
+   "no_forecast_reason": null,
+   "candidates": {
+    "democrat": null,
+    "republican": null
+   },
+   "url": "https://votepredictor.com/senate/de"
+  },
+  {
+   "race_id": "2026_SEN_FL",
+   "office": "SEN",
+   "state": "FL",
+   "state_name": "Florida",
+   "as_of": "2026-10-29",
+   "pred_margin": -9.3265235051,
+   "p_dem_win": 0.01,
+   "rating": "Safe R",
+   "source": "polls",
+   "no_forecast_reason": null,
+   "candidates": {
+    "democrat": "Angie Nixon",
+    "republican": "Ashley Moody"
+   },
+   "url": "https://votepredictor.com/senate/fl"
+  },
+  {
+   "race_id": "2026_SEN_GA",
+   "office": "SEN",
+   "state": "GA",
+   "state_name": "Georgia",
+   "as_of": "2026-10-29",
+   "pred_margin": 10.2660820527,
+   "p_dem_win": 0.99,
+   "rating": "Safe D",
+   "source": "polls",
+   "no_forecast_reason": null,
+   "candidates": {
+    "democrat": "Jon Ossoff",
+    "republican": "Mike Collins"
+   },
+   "url": "https://votepredictor.com/senate/ga"
+  },
+  {
+   "race_id": "2026_SEN_IA",
+   "office": "SEN",
+   "state": "IA",
+   "state_name": "Iowa",
+   "as_of": "2026-10-29",
+   "pred_margin": -1.2879745908,
+   "p_dem_win": 0.3440612395,
+   "rating": "Lean R",
+   "source": "polls",
+   "no_forecast_reason": null,
+   "candidates": {
+    "democrat": "Josh Turek",
+    "republican": "Ashley Hinson"
+   },
+   "url": "https://votepredictor.com/senate/ia"
+  },
+  {
+   "race_id": "2026_SEN_ID",
+   "office": "SEN",
+   "state": "ID",
+   "state_name": "Idaho",
+   "as_of": "2026-10-29",
+   "pred_margin": -34.859290537,
+   "p_dem_win": 0.01,
+   "rating": "Safe R",
+   "source": "polls",
+   "no_forecast_reason": null,
+   "candidates": {
+    "democrat": "David Roth",
+    "republican": "Jim Risch"
+   },
+   "url": "https://votepredictor.com/senate/id"
+  },
+  {
+   "race_id": "2026_SEN_IL",
+   "office": "SEN",
+   "state": "IL",
+   "state_name": "Illinois",
+   "as_of": "2026-10-29",
+   "pred_margin": 17.1098993312,
+   "p_dem_win": 0.99,
+   "rating": "Safe D",
+   "source": "polls",
+   "no_forecast_reason": null,
+   "candidates": {
+    "democrat": "Juliana Stratton",
+    "republican": "Don Tracy"
+   },
+   "url": "https://votepredictor.com/senate/il"
+  },
+  {
+   "race_id": "2026_SEN_KS",
+   "office": "SEN",
+   "state": "KS",
+   "state_name": "Kansas",
+   "as_of": "2026-10-29",
+   "pred_margin": -3.0802780168,
+   "p_dem_win": 0.1667043323,
+   "rating": "Lean R",
+   "source": "polls",
+   "no_forecast_reason": null,
+   "candidates": {
+    "democrat": "Adam Hamilton",
+    "republican": "Roger Marshall"
+   },
+   "url": "https://votepredictor.com/senate/ks"
+  },
+  {
+   "race_id": "2026_SEN_KY",
+   "office": "SEN",
+   "state": "KY",
+   "state_name": "Kentucky",
+   "as_of": "2026-10-29",
+   "pred_margin": -16.3396922719,
+   "p_dem_win": 0.01,
+   "rating": "Safe R",
+   "source": "polls",
+   "no_forecast_reason": null,
+   "candidates": {
+    "democrat": "Charles Booker",
+    "republican": "Andy Barr"
+   },
+   "url": "https://votepredictor.com/senate/ky"
+  },
+  {
+   "race_id": "2026_SEN_LA",
+   "office": "SEN",
+   "state": "LA",
+   "state_name": "Louisiana",
+   "as_of": "2026-10-29",
+   "pred_margin": -9.7526091876,
+   "p_dem_win": 0.01,
+   "rating": "Safe R",
+   "source": "polls",
+   "no_forecast_reason": null,
+   "candidates": {
+    "democrat": "Jamie Davis",
+    "republican": "Julia Letlow"
+   },
+   "url": "https://votepredictor.com/senate/la"
+  },
+  {
+   "race_id": "2026_SEN_MA",
+   "office": "SEN",
+   "state": "MA",
+   "state_name": "Massachusetts",
+   "as_of": "2026-10-29",
+   "pred_margin": 27.8132492449,
+   "p_dem_win": 0.99,
+   "rating": "Safe D",
+   "source": "polls",
+   "no_forecast_reason": null,
+   "candidates": {
+    "democrat": "Ed Markey",
+    "republican": "John Deaton"
+   },
+   "url": "https://votepredictor.com/senate/ma"
+  },
+  {
+   "race_id": "2026_SEN_ME",
+   "office": "SEN",
+   "state": "ME",
+   "state_name": "Maine",
+   "as_of": "2026-10-29",
+   "pred_margin": 0.3851572115,
+   "p_dem_win": 0.5484976791,
+   "rating": "Toss-up",
+   "source": "polls",
+   "no_forecast_reason": null,
+   "candidates": {
+    "democrat": "Troy Jackson",
+    "republican": "Susan Collins"
+   },
+   "url": "https://votepredictor.com/senate/me"
+  },
+  {
+   "race_id": "2026_SEN_MI",
+   "office": "SEN",
+   "state": "MI",
+   "state_name": "Michigan",
+   "as_of": "2026-10-29",
+   "pred_margin": 2.8160672491,
+   "p_dem_win": 0.8099311807,
+   "rating": "Lean D",
+   "source": "polls",
+   "no_forecast_reason": null,
+   "candidates": {
+    "democrat": "Abdul El-Sayed",
+    "republican": "Mike Rogers"
+   },
+   "url": "https://votepredictor.com/senate/mi"
+  },
+  {
+   "race_id": "2026_SEN_MN",
+   "office": "SEN",
+   "state": "MN",
+   "state_name": "Minnesota",
+   "as_of": "2026-10-29",
+   "pred_margin": 4.8826205792,
+   "p_dem_win": 0.9179011954,
+   "rating": "Likely D",
+   "source": "polls",
+   "no_forecast_reason": null,
+   "candidates": {
+    "democrat": "Peggy Flanagan",
+    "republican": "Michele Tafoya"
+   },
+   "url": "https://votepredictor.com/senate/mn"
+  },
+  {
+   "race_id": "2026_SEN_MS",
+   "office": "SEN",
+   "state": "MS",
+   "state_name": "Mississippi",
+   "as_of": "2026-10-29",
+   "pred_margin": -12.8338221622,
+   "p_dem_win": 0.01,
+   "rating": "Safe R",
+   "source": "polls",
+   "no_forecast_reason": null,
+   "candidates": {
+    "democrat": "Scott Colom",
+    "republican": "Cindy Hyde-Smith"
+   },
+   "url": "https://votepredictor.com/senate/ms"
+  },
+  {
+   "race_id": "2026_SEN_MT",
+   "office": "SEN",
+   "state": "MT",
+   "state_name": "Montana",
+   "as_of": "2026-10-29",
+   "pred_margin": -26.0443696017,
+   "p_dem_win": 0.01,
+   "rating": "Safe R",
+   "source": "polls",
+   "no_forecast_reason": null,
+   "candidates": {
+    "democrat": "Alani Bankhead",
+    "republican": "Kurt Alme"
+   },
+   "url": "https://votepredictor.com/senate/mt"
+  },
+  {
+   "race_id": "2026_SEN_NC",
+   "office": "SEN",
+   "state": "NC",
+   "state_name": "North Carolina",
+   "as_of": "2026-10-29",
+   "pred_margin": 9.6529813502,
+   "p_dem_win": 0.99,
+   "rating": "Safe D",
+   "source": "polls",
+   "no_forecast_reason": null,
+   "candidates": {
+    "democrat": "Roy Cooper",
+    "republican": "Michael Whatley"
+   },
+   "url": "https://votepredictor.com/senate/nc"
+  },
+  {
+   "race_id": "2026_SEN_NE",
+   "office": "SEN",
+   "state": "NE",
+   "state_name": "Nebraska",
+   "as_of": null,
+   "pred_margin": null,
+   "p_dem_win": null,
+   "rating": null,
+   "source": null,
+   "no_forecast_reason": "independent_contender",
+   "candidates": null,
+   "url": "https://votepredictor.com/races/2026_SEN_NE"
+  },
+  {
+   "race_id": "2026_SEN_NH",
+   "office": "SEN",
+   "state": "NH",
+   "state_name": "New Hampshire",
+   "as_of": "2026-10-29",
+   "pred_margin": 7.129107494,
+   "p_dem_win": 0.9856856448,
+   "rating": "Safe D",
+   "source": "polls",
+   "no_forecast_reason": null,
+   "candidates": {
+    "democrat": "Chris Pappas",
+    "republican": "John Sununu"
+   },
+   "url": "https://votepredictor.com/senate/nh"
+  },
+  {
+   "race_id": "2026_SEN_NJ",
+   "office": "SEN",
+   "state": "NJ",
+   "state_name": "New Jersey",
+   "as_of": "2026-10-29",
+   "pred_margin": 23.02,
+   "p_dem_win": 0.9867,
+   "rating": "Safe D",
+   "source": "fundamentals",
+   "no_forecast_reason": null,
+   "candidates": {
+    "democrat": null,
+    "republican": null
+   },
+   "url": "https://votepredictor.com/senate/nj"
+  },
+  {
+   "race_id": "2026_SEN_NM",
+   "office": "SEN",
+   "state": "NM",
+   "state_name": "New Mexico",
+   "as_of": "2026-10-29",
+   "pred_margin": 17.6112254478,
+   "p_dem_win": 0.99,
+   "rating": "Safe D",
+   "source": "polls",
+   "no_forecast_reason": null,
+   "candidates": {
+    "democrat": "Ben Ray Luj\u00e1n",
+    "republican": "Larry Marker"
+   },
+   "url": "https://votepredictor.com/senate/nm"
+  },
+  {
+   "race_id": "2026_SEN_OH",
+   "office": "SEN",
+   "state": "OH",
+   "state_name": "Ohio",
+   "as_of": "2026-10-29",
+   "pred_margin": 2.1229675026,
+   "p_dem_win": 0.752379623,
+   "rating": "Lean D",
+   "source": "polls",
+   "no_forecast_reason": null,
+   "candidates": {
+    "democrat": "Sherrod Brown",
+    "republican": "Jon Husted"
+   },
+   "url": "https://votepredictor.com/senate/oh"
+  },
+  {
+   "race_id": "2026_SEN_OK",
+   "office": "SEN",
+   "state": "OK",
+   "state_name": "Oklahoma",
+   "as_of": "2026-10-29",
+   "pred_margin": -19.88,
+   "p_dem_win": 0.0278,
+   "rating": "Safe R",
+   "source": "fundamentals",
+   "no_forecast_reason": null,
+   "candidates": {
+    "democrat": null,
+    "republican": null
+   },
+   "url": "https://votepredictor.com/senate/ok"
+  },
+  {
+   "race_id": "2026_SEN_OR",
+   "office": "SEN",
+   "state": "OR",
+   "state_name": "Oregon",
+   "as_of": "2026-10-29",
+   "pred_margin": 27.91,
+   "p_dem_win": 0.99,
+   "rating": "Safe D",
+   "source": "fundamentals",
+   "no_forecast_reason": null,
+   "candidates": {
+    "democrat": null,
+    "republican": null
+   },
+   "url": "https://votepredictor.com/senate/or"
+  },
+  {
+   "race_id": "2026_SEN_RI",
+   "office": "SEN",
+   "state": "RI",
+   "state_name": "Rhode Island",
+   "as_of": "2026-10-29",
+   "pred_margin": 28.1428588716,
+   "p_dem_win": 0.99,
+   "rating": "Safe D",
+   "source": "polls",
+   "no_forecast_reason": null,
+   "candidates": {
+    "democrat": "Jack Reed",
+    "republican": "Raymond McKay"
+   },
+   "url": "https://votepredictor.com/senate/ri"
+  },
+  {
+   "race_id": "2026_SEN_SC",
+   "office": "SEN",
+   "state": "SC",
+   "state_name": "South Carolina",
+   "as_of": "2026-10-29",
+   "pred_margin": -5.4294146307,
+   "p_dem_win": 0.0465387925,
+   "rating": "Safe R",
+   "source": "polls",
+   "no_forecast_reason": null,
+   "candidates": {
+    "democrat": "Annie Andrews",
+    "republican": "Darline Graham"
+   },
+   "url": "https://votepredictor.com/senate/sc"
+  },
+  {
+   "race_id": "2026_SEN_SD",
+   "office": "SEN",
+   "state": "SD",
+   "state_name": "South Dakota",
+   "as_of": null,
+   "pred_margin": null,
+   "p_dem_win": null,
+   "rating": null,
+   "source": null,
+   "no_forecast_reason": "independent_contender",
+   "candidates": null,
+   "url": "https://votepredictor.com/races/2026_SEN_SD"
+  },
+  {
+   "race_id": "2026_SEN_TN",
+   "office": "SEN",
+   "state": "TN",
+   "state_name": "Tennessee",
+   "as_of": "2026-10-29",
+   "pred_margin": -27.3125881506,
+   "p_dem_win": 0.01,
+   "rating": "Safe R",
+   "source": "polls",
+   "no_forecast_reason": null,
+   "candidates": {
+    "democrat": "Marquita Bradshaw",
+    "republican": "Bill Hagerty"
+   },
+   "url": "https://votepredictor.com/senate/tn"
+  },
+  {
+   "race_id": "2026_SEN_TX",
+   "office": "SEN",
+   "state": "TX",
+   "state_name": "Texas",
+   "as_of": "2026-10-29",
+   "pred_margin": 1.8323505358,
+   "p_dem_win": 0.723453641,
+   "rating": "Lean D",
+   "source": "polls",
+   "no_forecast_reason": null,
+   "candidates": {
+    "democrat": "James Talarico",
+    "republican": "Ken Paxton"
+   },
+   "url": "https://votepredictor.com/senate/tx"
+  },
+  {
+   "race_id": "2026_SEN_VA",
+   "office": "SEN",
+   "state": "VA",
+   "state_name": "Virginia",
+   "as_of": "2026-10-29",
+   "pred_margin": 21.71,
+   "p_dem_win": 0.9817,
+   "rating": "Safe D",
+   "source": "fundamentals",
+   "no_forecast_reason": null,
+   "candidates": {
+    "democrat": null,
+    "republican": null
+   },
+   "url": "https://votepredictor.com/senate/va"
+  },
+  {
+   "race_id": "2026_SEN_WV",
+   "office": "SEN",
+   "state": "WV",
+   "state_name": "West Virginia",
+   "as_of": "2026-10-29",
+   "pred_margin": -37.66,
+   "p_dem_win": 0.01,
+   "rating": "Safe R",
+   "source": "fundamentals",
+   "no_forecast_reason": null,
+   "candidates": {
+    "democrat": null,
+    "republican": null
+   },
+   "url": "https://votepredictor.com/senate/wv"
+  },
+  {
+   "race_id": "2026_SEN_WY",
+   "office": "SEN",
+   "state": "WY",
+   "state_name": "Wyoming",
+   "as_of": "2026-10-29",
+   "pred_margin": -31.77,
+   "p_dem_win": 0.01,
+   "rating": "Safe R",
+   "source": "fundamentals",
+   "no_forecast_reason": null,
+   "candidates": {
+    "democrat": null,
+    "republican": null
+   },
+   "url": "https://votepredictor.com/senate/wy"
+  }
+ ]
+}

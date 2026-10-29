@@ -1,0 +1,117 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <title>County Forecast Map</title>
+  <!-- Same faces as votepredictor.com (it self-hosts them through next/font). -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500&family=Instrument+Sans:wght@400;500;600&display=swap">
+  <link rel="stylesheet" href="css/styles.css">
+  <script src="https://cdn.jsdelivr.net/npm/d3@7.9.0/dist/d3.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/topojson-client@3.1.0/dist/topojson-client.min.js"></script>
+</head>
+<body>
+  <header class="top">
+    <div>
+      <p class="eyebrow">VotePredictor · 2026 midterms</p>
+      <h1>County map</h1>
+      <p class="sub">Senate and Governor forecasts by county, and results as they are counted.</p>
+    </div>
+    <nav class="seg" role="tablist" aria-label="View">
+      <button role="tab" data-view="forecast" aria-selected="true">Forecast</button>
+      <button role="tab" data-view="night" aria-selected="false">Election night</button>
+    </nav>
+  </header>
+
+  <section class="controls" id="controls-forecast">
+    <label class="field"><span>Office</span>
+      <select id="f-office">
+        <option value="SEN">Senate</option>
+        <option value="GOV">Governor</option>
+      </select>
+    </label>
+    <label class="field"><span>Race</span>
+      <select id="f-race"></select>
+    </label>
+    <span class="asof" id="f-asof"></span>
+    <div class="scrub" id="f-timeline">
+      <button class="btn" id="f-play" aria-label="Play the forecast history"></button>
+      <input id="f-date" type="range" min="0" max="0" value="0" aria-label="Forecast date">
+      <span class="when" id="f-date-label"></span>
+    </div>
+  </section>
+
+  <section class="controls" id="controls-night" hidden>
+    <label class="field wide"><span>Source</span>
+      <select id="n-source">
+        <option value="nc">Replay: North Carolina 2024, real vote types</option>
+        <option value="replay">Replay: any state, 2024 vs 2020 (simulated)</option>
+        <option value="live">Live results feed</option>
+      </select>
+    </label>
+    <label class="check nc-only"><input type="checkbox" id="n-typed" checked> Split by vote type</label>
+    <label class="field replay-only"><span>State</span>
+      <select id="n-replay-state"></select>
+    </label>
+    <label class="field replay-only"><span>Count order</span>
+      <select id="n-order">
+        <option value="random">Random</option>
+        <option value="small-first">Small counties first</option>
+      </select>
+    </label>
+    <label class="field replay-only"><span>Early batches lean D</span>
+      <select id="n-skew">
+        <option value="0">0 pts</option>
+        <option value="8">8 pts</option>
+        <option value="15">15 pts</option>
+      </select>
+    </label>
+    <label class="field live-only" hidden><span>Race</span>
+      <select id="n-race"></select>
+    </label>
+    <label class="field live-only wide" hidden><span>Feed URL</span>
+      <input id="n-feed" type="text" placeholder="data/live/2026_SEN_NC.json">
+    </label>
+    <label class="field live-only" hidden><span>Turnout vs 2024</span>
+      <input id="n-turnout" type="number" min="0.3" max="1.2" step="0.01" value="0.72">
+    </label>
+    <label class="field"><span>Colour by</span>
+      <select id="n-color">
+        <option value="margin">Margin</option>
+        <option value="shift">Shift vs expected</option>
+      </select>
+    </label>
+  </section>
+
+  <main class="layout">
+    <div class="card map-card">
+      <svg id="map" role="img" aria-label="County map"></svg>
+      <div class="legend" id="legend"></div>
+      <div class="scrub" id="replay-bar" hidden>
+        <button class="btn" id="n-play" aria-label="Play the count"></button>
+        <input id="n-step" type="range" min="0" value="0" aria-label="Batches counted">
+        <span class="when" id="n-step-label"></span>
+      </div>
+    </div>
+    <aside class="card panel" id="panel" aria-live="polite"></aside>
+  </main>
+
+  <div class="tooltip" id="tooltip" hidden></div>
+  <div class="sheet" id="sheet" role="dialog" aria-label="County details">
+    <button class="close" id="sheet-close" aria-label="Close">×</button>
+    <div id="sheet-body"></div>
+  </div>
+
+  <footer class="foot">
+    <p>County baselines are 2020 and 2024 presidential results
+      (<a href="https://github.com/tonmcg/US_County_Level_Election_Results_08-24">tonmcg</a>). On the Forecast tab,
+      each county is the statewide forecast applied as a uniform swing; it is not a county model.</p>
+    <p>Alaska and Connecticut are shown statewide because their results don't use county units.
+      Forecasts: <a href="https://votepredictor.com">votepredictor.com</a>.</p>
+  </footer>
+
+  <script type="module" src="js/app.js"></script>
+</body>
+</html>
